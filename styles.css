@@ -1,0 +1,27 @@
+body {
+  justify-content: center;
+  margin-top: 40px;
+}
+
+table {
+  border: 2px solid blueviolet;
+  border-collapse: collapse;
+  width: 100%;
+}
+body {
+  justify-content: center;
+  margin-top: 20px;
+  color: #37559d;
+}
+
+a {
+  color: #5165ff;
+}
+
+
+td {
+  padding: 18px;
+  border: 1px solid #ddd;
+
+}
+
